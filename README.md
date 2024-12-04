@@ -7,6 +7,8 @@ b. El codigo del prototipo final presentado en el 1er Piso corresponde al archiv
 
 c. Añadimos la carpeta de librerias que tenia nuestro Arduino IDE, a fin de evitar problemas por falta de librerias para ejecuta el codigo.
 
+d. Se añadió una carpeta en la cual subimos el archivo .json de Node-RED, en caso de que se desee revisar 
+
 Nos despedimos atte.
 Grupo 04
 Alex Muñoz y Dafne Silva
