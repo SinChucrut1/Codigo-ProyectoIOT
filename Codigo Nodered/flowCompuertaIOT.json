@@ -1,0 +1,1232 @@
+[
+    {
+        "id": "a44caf39bd6959f0",
+        "type": "tab",
+        "label": "Proyecto IOT - Compuerta",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "ef5a07d76b681f4e",
+        "type": "group",
+        "z": "a44caf39bd6959f0",
+        "name": "",
+        "style": {
+            "fill": "#c8e7a7",
+            "fill-opacity": "0.47",
+            "label": true
+        },
+        "nodes": [
+            "e38f2cedd2f5f81f",
+            "9f63df3ba527d026",
+            "841a81a024943f68",
+            "019ee4da2184c05d"
+        ],
+        "x": 14,
+        "y": 659,
+        "w": 372,
+        "h": 162
+    },
+    {
+        "id": "b555a7db44b49144",
+        "type": "group",
+        "z": "a44caf39bd6959f0",
+        "name": "",
+        "style": {
+            "fill": "#7fb7df",
+            "fill-opacity": "0.32",
+            "label": true,
+            "stroke": "#0070c0"
+        },
+        "nodes": [
+            "60a60f17f9782535",
+            "981c15bb96e9e845",
+            "ef5de640469bd728",
+            "e5011be976897ea4",
+            "6b36a4b235c167fa",
+            "42e2a1faec886eb1",
+            "3684c9d1e8cc3296",
+            "1eceab672abb8cbc"
+        ],
+        "x": 14,
+        "y": 19,
+        "w": 692,
+        "h": 262
+    },
+    {
+        "id": "6041e6fdc73b42f0",
+        "type": "group",
+        "z": "a44caf39bd6959f0",
+        "name": "",
+        "style": {
+            "fill": "#b797cf",
+            "fill-opacity": "0.35",
+            "label": true,
+            "stroke": "#6f2fa0"
+        },
+        "nodes": [
+            "2331bd65abd02302",
+            "67fd9aa1dd212ab5",
+            "e8b305f8b18bf699",
+            "347999c15c4c5660",
+            "22ad711e7d07d272",
+            "258e2858d007f712",
+            "f3a037dcd78584c8"
+        ],
+        "x": 654,
+        "y": 299,
+        "w": 612,
+        "h": 162
+    },
+    {
+        "id": "55ed330552b98e51",
+        "type": "group",
+        "z": "a44caf39bd6959f0",
+        "name": "",
+        "style": {
+            "fill": "#ffdf7f",
+            "fill-opacity": "0.44",
+            "label": true,
+            "stroke": "#ffC000"
+        },
+        "nodes": [
+            "6fe5fb91f9a14b7e",
+            "d8a459cab680450b",
+            "aeb3288980aa6eb9",
+            "8bcbfc320c96776f",
+            "2d5ced6c2c3e2c38",
+            "5fb4f5b1944b2124",
+            "6f64aa1cafdd65c6",
+            "624013bd17e6ca42",
+            "6fec057161aa5781",
+            "5874033d080d4f34"
+        ],
+        "x": 14,
+        "y": 299,
+        "w": 612,
+        "h": 242
+    },
+    {
+        "id": "6903a2b8e582e96e",
+        "type": "group",
+        "z": "a44caf39bd6959f0",
+        "name": "",
+        "style": {
+            "fill": "#c8e7a7",
+            "fill-opacity": "0.47",
+            "label": true,
+            "stroke": "#a4a4a4"
+        },
+        "nodes": [
+            "4d31688965277362",
+            "b9a5ea46d28d9295",
+            "48c1d528315fb30e",
+            "310986df41a906cd"
+        ],
+        "x": 414,
+        "y": 659,
+        "w": 392,
+        "h": 162
+    },
+    {
+        "id": "2c937d992c2aaf9f",
+        "type": "group",
+        "z": "a44caf39bd6959f0",
+        "name": "",
+        "style": {
+            "fill": "#c8e7a7",
+            "fill-opacity": "0.47",
+            "label": true
+        },
+        "nodes": [
+            "01d15a5db238ba02",
+            "c90e30162eae67ef",
+            "5dd3623e2e8bff7c",
+            "102a3dbeddbad53d"
+        ],
+        "x": 834,
+        "y": 659,
+        "w": 392,
+        "h": 162
+    },
+    {
+        "id": "e569277b8aeea6ef",
+        "type": "group",
+        "z": "a44caf39bd6959f0",
+        "name": "",
+        "style": {
+            "stroke": "#ff0000",
+            "fill": "#ffbfbf",
+            "fill-opacity": "0.47",
+            "label": true
+        },
+        "nodes": [
+            "141269a67671bb87",
+            "5175f2057099735e",
+            "a898ec7706c31644",
+            "7e81ed2b116ff4e5"
+        ],
+        "x": 734,
+        "y": 19,
+        "w": 332,
+        "h": 182
+    },
+    {
+        "id": "c48313ef9e5fe383",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-custom",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#2c28e6",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#13a2aa",
+                "baseFont": "Lucida Sans Unicode,Lucida Grande,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#2388b3",
+                "baseFont": "Lucida Sans Typewriter,Lucida Console,Monaco,monospace",
+                "reset": false
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#2388b3",
+                    "value": "#2388b3",
+                    "edited": true
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#2388b3",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#2e2d2d",
+                    "edited": true
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#388eb2",
+                    "edited": true
+                },
+                "group-borderColor": {
+                    "value": "#000000",
+                    "edited": true
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#2388b3",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "Lucida Sans Typewriter,Lucida Console,Monaco,monospace"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Compuerta para Mascotas",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/AAAA",
+            "sizes": {
+                "sx": 52,
+                "sy": 52,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "ad8d42249cf9ef58",
+        "type": "MySQLdatabase",
+        "name": "BD",
+        "host": "172.17.0.3",
+        "port": "3306",
+        "db": "ProyectoIOT",
+        "tz": "",
+        "charset": "UTF8"
+    },
+    {
+        "id": "c409ac7cd0fe51f7",
+        "type": "ui_tab",
+        "name": "Compuerta para Mascotas",
+        "icon": "pets",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "e43e6029dcf3d0f9",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "test.mosquitto.org",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "08444780b5fcd145",
+        "type": "ui_group",
+        "name": "Persona",
+        "tab": "c409ac7cd0fe51f7",
+        "order": 1,
+        "disp": true,
+        "width": "4",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "aab8e8451e31e272",
+        "type": "ui_group",
+        "name": "Ultimos 5 registros",
+        "tab": "c409ac7cd0fe51f7",
+        "order": 4,
+        "disp": true,
+        "width": 12,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "101c1185d328b323",
+        "type": "ui_group",
+        "name": "Mascota",
+        "tab": "c409ac7cd0fe51f7",
+        "order": 3,
+        "disp": true,
+        "width": "4",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "5d01e93a6329e172",
+        "type": "ui_group",
+        "name": "Puerta",
+        "tab": "c409ac7cd0fe51f7",
+        "order": 2,
+        "disp": true,
+        "width": "4",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "d8a90b9f56ad94c8",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "mqtt.eclipseprojects.io",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "60a60f17f9782535",
+        "type": "mqtt in",
+        "z": "a44caf39bd6959f0",
+        "g": "b555a7db44b49144",
+        "name": "topic Mascota",
+        "topic": "st/grupo04/compuerta/PIR_Mascota",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "d8a90b9f56ad94c8",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 110,
+        "y": 120,
+        "wires": [
+            [
+                "ef5de640469bd728"
+            ]
+        ]
+    },
+    {
+        "id": "981c15bb96e9e845",
+        "type": "mqtt in",
+        "z": "a44caf39bd6959f0",
+        "g": "b555a7db44b49144",
+        "name": "topic Persona",
+        "topic": "st/grupo04/compuerta/PIR_Persona",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "d8a90b9f56ad94c8",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 110,
+        "y": 200,
+        "wires": [
+            [
+                "ef5de640469bd728",
+                "1eceab672abb8cbc"
+            ]
+        ]
+    },
+    {
+        "id": "6fe5fb91f9a14b7e",
+        "type": "mqtt in",
+        "z": "a44caf39bd6959f0",
+        "g": "55ed330552b98e51",
+        "name": "topic Puerta",
+        "topic": "st/grupo04/compuerta/Estado_Puerta",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "d8a90b9f56ad94c8",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 110,
+        "y": 380,
+        "wires": [
+            [
+                "aeb3288980aa6eb9"
+            ]
+        ]
+    },
+    {
+        "id": "ef5de640469bd728",
+        "type": "switch",
+        "z": "a44caf39bd6959f0",
+        "g": "b555a7db44b49144",
+        "name": "Tipo Dato enviado",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Mascota detectada",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Persona detectada",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 350,
+        "y": 160,
+        "wires": [
+            [
+                "e5011be976897ea4"
+            ],
+            [
+                "3684c9d1e8cc3296"
+            ]
+        ]
+    },
+    {
+        "id": "e5011be976897ea4",
+        "type": "function",
+        "z": "a44caf39bd6959f0",
+        "g": "b555a7db44b49144",
+        "name": "Deteccion Mascota",
+        "func": "// Si el payload es \"Mascota detectada\", esa info se\n// procesara aqui\n\n// Luego creamos la consulta INSERT para la tabla Detecciones\nmsg.topic = \"insert into Detecciones(tipoDeteccion, tiempoRegistro) values ('MASCOTA', CURRENT_TIMESTAMP);\";\n// enviar dato para actualizar tabla\nmsg.tipo = \"MASCOTA\";\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 100,
+        "wires": [
+            [
+                "6b36a4b235c167fa"
+            ]
+        ]
+    },
+    {
+        "id": "6b36a4b235c167fa",
+        "type": "mysql",
+        "z": "a44caf39bd6959f0",
+        "g": "b555a7db44b49144",
+        "mydb": "ad8d42249cf9ef58",
+        "name": "BD",
+        "x": 630,
+        "y": 160,
+        "wires": [
+            [
+                "141269a67671bb87"
+            ]
+        ]
+    },
+    {
+        "id": "42e2a1faec886eb1",
+        "type": "comment",
+        "z": "a44caf39bd6959f0",
+        "g": "b555a7db44b49144",
+        "name": "Logica para insertar detecciones de Mascotas / Personas",
+        "info": "",
+        "x": 270,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "e38f2cedd2f5f81f",
+        "type": "inject",
+        "z": "a44caf39bd6959f0",
+        "g": "ef5a07d76b681f4e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "ABIERTA",
+        "payloadType": "str",
+        "x": 120,
+        "y": 740,
+        "wires": [
+            [
+                "9f63df3ba527d026"
+            ]
+        ]
+    },
+    {
+        "id": "9f63df3ba527d026",
+        "type": "mqtt out",
+        "z": "a44caf39bd6959f0",
+        "g": "ef5a07d76b681f4e",
+        "name": "topic Compuerta",
+        "topic": "st/grupo04/compuerta/Estado_Puerta",
+        "qos": "2",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "d8a90b9f56ad94c8",
+        "x": 280,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "841a81a024943f68",
+        "type": "inject",
+        "z": "a44caf39bd6959f0",
+        "g": "ef5a07d76b681f4e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "CERRADA",
+        "payloadType": "str",
+        "x": 120,
+        "y": 780,
+        "wires": [
+            [
+                "9f63df3ba527d026"
+            ]
+        ]
+    },
+    {
+        "id": "2331bd65abd02302",
+        "type": "function",
+        "z": "a44caf39bd6959f0",
+        "g": "6041e6fdc73b42f0",
+        "name": "Realizar Select",
+        "func": "// Hacer consulta al topic con formato de fecha\nmsg.topic = \"SELECT ID_deteccion AS 'N° Registro', DATE_FORMAT(tiempoRegistro, '%d-%m-%Y %H:%i') AS 'Fecha y Hora' FROM Detecciones WHERE tipoDeteccion = '\" + msg.payload + \"' ORDER BY ID_deteccion DESC LIMIT 5;\";\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 920,
+        "y": 400,
+        "wires": [
+            [
+                "67fd9aa1dd212ab5",
+                "258e2858d007f712"
+            ]
+        ]
+    },
+    {
+        "id": "67fd9aa1dd212ab5",
+        "type": "mysql",
+        "z": "a44caf39bd6959f0",
+        "g": "6041e6fdc73b42f0",
+        "mydb": "ad8d42249cf9ef58",
+        "name": "BD",
+        "x": 1070,
+        "y": 420,
+        "wires": [
+            [
+                "e8b305f8b18bf699"
+            ]
+        ]
+    },
+    {
+        "id": "e8b305f8b18bf699",
+        "type": "ui_table",
+        "z": "a44caf39bd6959f0",
+        "g": "6041e6fdc73b42f0",
+        "group": "aab8e8451e31e272",
+        "name": "",
+        "order": 3,
+        "width": 12,
+        "height": 3,
+        "columns": [],
+        "outputs": 0,
+        "cts": false,
+        "x": 1190,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "019ee4da2184c05d",
+        "type": "comment",
+        "z": "a44caf39bd6959f0",
+        "g": "ef5a07d76b681f4e",
+        "name": "Simular datos de Servomotor",
+        "info": "",
+        "x": 160,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "3684c9d1e8cc3296",
+        "type": "function",
+        "z": "a44caf39bd6959f0",
+        "g": "b555a7db44b49144",
+        "name": "Deteccion Persona",
+        "func": "// Si el payload es \"Persona detectada\", esa info se\n// procesara aqui\n\n// Luego creamos la consulta INSERT para la tabla Detecciones\nmsg.topic = \"insert into Detecciones(tipoDeteccion, tiempoRegistro) values ('PERSONA', CURRENT_TIMESTAMP);\";\n// Realizar consulta para la tabla\nmsg.tipo = \"PERSONA\";\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 220,
+        "wires": [
+            [
+                "6b36a4b235c167fa"
+            ]
+        ]
+    },
+    {
+        "id": "d8a459cab680450b",
+        "type": "ui_media",
+        "z": "a44caf39bd6959f0",
+        "g": "55ed330552b98e51",
+        "group": "5d01e93a6329e172",
+        "name": "Cargar imagen Puerta",
+        "width": 4,
+        "height": 4,
+        "order": 2,
+        "category": "imagenes",
+        "file": "puertaCerrada.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": false,
+        "onstart": true,
+        "scope": "local",
+        "tooltip": "",
+        "x": 480,
+        "y": 380,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "aeb3288980aa6eb9",
+        "type": "function",
+        "z": "a44caf39bd6959f0",
+        "g": "55ed330552b98e51",
+        "name": "Elegir imagen",
+        "func": "// Procesar el dato recibido desde el payload\nvar estado = msg.payload;\n\n// Si el estado es \"ABIERTA\", seleccionar el gif \"puertaAbierta\"\nif (estado === \"ABIERTA\") {\n    msg.payload = {\n        category: \"imagenes\",\n        name: \"gifPuerta.gif\" \n    };\n    msg.estado = \"ABIERTA\";\n}\n// Si el estado es \"CERRADA\", seleccionar el png \"puertaCerrada\"\nelse if (estado === \"CERRADA\") {\n    msg.payload = {\n        category: \"imagenes\",\n        name: \"puertaCerrada.png\"\n    };\n    msg.estado = \"CERRADA\";\n}\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 280,
+        "y": 380,
+        "wires": [
+            [
+                "d8a459cab680450b"
+            ]
+        ]
+    },
+    {
+        "id": "347999c15c4c5660",
+        "type": "ui_button",
+        "z": "a44caf39bd6959f0",
+        "g": "6041e6fdc73b42f0",
+        "name": "",
+        "group": "aab8e8451e31e272",
+        "order": 1,
+        "width": 6,
+        "height": 1,
+        "passthru": false,
+        "label": "De Mascotas",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "MASCOTA",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 750,
+        "y": 380,
+        "wires": [
+            [
+                "2331bd65abd02302"
+            ]
+        ]
+    },
+    {
+        "id": "22ad711e7d07d272",
+        "type": "ui_button",
+        "z": "a44caf39bd6959f0",
+        "g": "6041e6fdc73b42f0",
+        "name": "",
+        "group": "aab8e8451e31e272",
+        "order": 2,
+        "width": 6,
+        "height": 1,
+        "passthru": false,
+        "label": "De Personas",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "PERSONA",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 750,
+        "y": 420,
+        "wires": [
+            [
+                "2331bd65abd02302"
+            ]
+        ]
+    },
+    {
+        "id": "258e2858d007f712",
+        "type": "debug",
+        "z": "a44caf39bd6959f0",
+        "g": "6041e6fdc73b42f0",
+        "name": "Ver eleccion",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1110,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "f3a037dcd78584c8",
+        "type": "comment",
+        "z": "a44caf39bd6959f0",
+        "g": "6041e6fdc73b42f0",
+        "name": "Logica para mostrar Detecciones segun boton seleccionado",
+        "info": "",
+        "x": 900,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "8bcbfc320c96776f",
+        "type": "mqtt in",
+        "z": "a44caf39bd6959f0",
+        "g": "55ed330552b98e51",
+        "name": "topic Mascota",
+        "topic": "st/grupo04/compuerta/PIR_Mascota",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "d8a90b9f56ad94c8",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 110,
+        "y": 440,
+        "wires": [
+            [
+                "5fb4f5b1944b2124"
+            ]
+        ]
+    },
+    {
+        "id": "2d5ced6c2c3e2c38",
+        "type": "mqtt in",
+        "z": "a44caf39bd6959f0",
+        "g": "55ed330552b98e51",
+        "name": "topic Persona",
+        "topic": "st/grupo04/compuerta/PIR_Persona",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "d8a90b9f56ad94c8",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 110,
+        "y": 500,
+        "wires": [
+            [
+                "624013bd17e6ca42"
+            ]
+        ]
+    },
+    {
+        "id": "5fb4f5b1944b2124",
+        "type": "function",
+        "z": "a44caf39bd6959f0",
+        "g": "55ed330552b98e51",
+        "name": "Elegir imagen",
+        "func": "// Procesar el dato recibido desde el payload\nvar estado = msg.payload;\n\n// Configurar el mensaje en función del estado recibido\nif (estado === \"Mascota detectada\") {\n    msg.payload = {\n        category: \"imagenes\",\n        name: \"mascotaDetect.gif\"\n    };\n    msg.estado = \"Mascota detectada\";\n} else if (estado === \"Mascota no detectada\") {\n    msg.payload = {\n        category: \"imagenes\",\n        name: \"mascotaNull.png\"\n    };\n    msg.estado = \"Mascota no detectada\";\n}\n\nreturn msg;\n\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 280,
+        "y": 440,
+        "wires": [
+            [
+                "6f64aa1cafdd65c6"
+            ]
+        ]
+    },
+    {
+        "id": "6f64aa1cafdd65c6",
+        "type": "ui_media",
+        "z": "a44caf39bd6959f0",
+        "g": "55ed330552b98e51",
+        "group": "101c1185d328b323",
+        "name": "Cargar imagen mascota",
+        "width": 4,
+        "height": 4,
+        "order": 1,
+        "category": "imagenes",
+        "file": "mascotaNull.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": false,
+        "onstart": true,
+        "scope": "local",
+        "tooltip": "",
+        "x": 490,
+        "y": 440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "624013bd17e6ca42",
+        "type": "function",
+        "z": "a44caf39bd6959f0",
+        "g": "55ed330552b98e51",
+        "name": "Elegir imagen",
+        "func": "// Procesar el dato recibido desde el payload\nvar estado = msg.payload;\n\nif (estado === \"Persona detectada\") {\n    msg.payload = {\n        category: \"imagenes\",\n        name: \"personaDetect.gif\"\n    };\n    msg.estado = \"Persona detectada\";\n}\n\nelse if (estado === \"Persona no detectada\") {\n    msg.payload = {\n        category: \"imagenes\",\n        name: \"personaNull.png\"\n    };\n    msg.estado = \"Persona no detectada\";\n}\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 280,
+        "y": 500,
+        "wires": [
+            [
+                "6fec057161aa5781"
+            ]
+        ]
+    },
+    {
+        "id": "6fec057161aa5781",
+        "type": "ui_media",
+        "z": "a44caf39bd6959f0",
+        "g": "55ed330552b98e51",
+        "group": "08444780b5fcd145",
+        "name": "Cargar imagen persona",
+        "width": 4,
+        "height": 4,
+        "order": 1,
+        "category": "imagenes",
+        "file": "personaNull.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": false,
+        "onstart": true,
+        "scope": "local",
+        "tooltip": "",
+        "x": 490,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5874033d080d4f34",
+        "type": "comment",
+        "z": "a44caf39bd6959f0",
+        "g": "55ed330552b98e51",
+        "name": "Actualizacion de Imagenes segun Señales",
+        "info": "",
+        "x": 300,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "4d31688965277362",
+        "type": "inject",
+        "z": "a44caf39bd6959f0",
+        "g": "6903a2b8e582e96e",
+        "name": "Detectada",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "Mascota detectada",
+        "payloadType": "str",
+        "x": 520,
+        "y": 740,
+        "wires": [
+            [
+                "48c1d528315fb30e"
+            ]
+        ]
+    },
+    {
+        "id": "b9a5ea46d28d9295",
+        "type": "inject",
+        "z": "a44caf39bd6959f0",
+        "g": "6903a2b8e582e96e",
+        "name": "No detectada",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "Mascota no detectada",
+        "payloadType": "str",
+        "x": 530,
+        "y": 780,
+        "wires": [
+            [
+                "48c1d528315fb30e"
+            ]
+        ]
+    },
+    {
+        "id": "48c1d528315fb30e",
+        "type": "mqtt out",
+        "z": "a44caf39bd6959f0",
+        "g": "6903a2b8e582e96e",
+        "name": "topic Mascotas",
+        "topic": "st/grupo04/compuerta/PIR_Mascota",
+        "qos": "2",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "d8a90b9f56ad94c8",
+        "x": 700,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "310986df41a906cd",
+        "type": "comment",
+        "z": "a44caf39bd6959f0",
+        "g": "6903a2b8e582e96e",
+        "name": "Simular datos de PIR Mascotas",
+        "info": "",
+        "x": 570,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "01d15a5db238ba02",
+        "type": "inject",
+        "z": "a44caf39bd6959f0",
+        "g": "2c937d992c2aaf9f",
+        "name": "Hay persona",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "Persona detectada",
+        "payloadType": "str",
+        "x": 950,
+        "y": 740,
+        "wires": [
+            [
+                "5dd3623e2e8bff7c"
+            ]
+        ]
+    },
+    {
+        "id": "c90e30162eae67ef",
+        "type": "inject",
+        "z": "a44caf39bd6959f0",
+        "g": "2c937d992c2aaf9f",
+        "name": "No Persona",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "Persona no detectada",
+        "payloadType": "str",
+        "x": 950,
+        "y": 780,
+        "wires": [
+            [
+                "5dd3623e2e8bff7c"
+            ]
+        ]
+    },
+    {
+        "id": "5dd3623e2e8bff7c",
+        "type": "mqtt out",
+        "z": "a44caf39bd6959f0",
+        "g": "2c937d992c2aaf9f",
+        "name": "topic Persona",
+        "topic": "st/grupo04/compuerta/PIR_Persona",
+        "qos": "2",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "d8a90b9f56ad94c8",
+        "x": 1120,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "102a3dbeddbad53d",
+        "type": "comment",
+        "z": "a44caf39bd6959f0",
+        "g": "2c937d992c2aaf9f",
+        "name": "Simular datos de PIR Personas",
+        "info": "",
+        "x": 990,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "141269a67671bb87",
+        "type": "function",
+        "z": "a44caf39bd6959f0",
+        "g": "e569277b8aeea6ef",
+        "name": "Actualizar tabla",
+        "func": "// Hacer consulta al topic con formato de fecha\nmsg.topic = \"SELECT ID_deteccion AS 'N° Registro', DATE_FORMAT(tiempoRegistro, '%d-%m-%Y %H:%i') AS 'Fecha y Hora' FROM Detecciones WHERE tipoDeteccion = '\" + msg.tipo + \"' ORDER BY ID_deteccion DESC LIMIT 5;\";\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 840,
+        "y": 100,
+        "wires": [
+            [
+                "a898ec7706c31644"
+            ]
+        ]
+    },
+    {
+        "id": "5175f2057099735e",
+        "type": "ui_ui_control",
+        "z": "a44caf39bd6959f0",
+        "g": "e569277b8aeea6ef",
+        "name": "",
+        "events": "all",
+        "x": 840,
+        "y": 160,
+        "wires": [
+            [
+                "141269a67671bb87"
+            ]
+        ]
+    },
+    {
+        "id": "a898ec7706c31644",
+        "type": "mysql",
+        "z": "a44caf39bd6959f0",
+        "g": "e569277b8aeea6ef",
+        "mydb": "ad8d42249cf9ef58",
+        "name": "BD",
+        "x": 990,
+        "y": 120,
+        "wires": [
+            [
+                "e8b305f8b18bf699"
+            ]
+        ]
+    },
+    {
+        "id": "7e81ed2b116ff4e5",
+        "type": "comment",
+        "z": "a44caf39bd6959f0",
+        "g": "e569277b8aeea6ef",
+        "name": "Actualizacion automatica de tabla",
+        "info": "",
+        "x": 890,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "1eceab672abb8cbc",
+        "type": "delay",
+        "z": "a44caf39bd6959f0",
+        "g": "b555a7db44b49144",
+        "name": "",
+        "pauseType": "rate",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "10",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": true,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 240,
+        "y": 240,
+        "wires": [
+            [
+                "ef5de640469bd728"
+            ]
+        ]
+    }
+]
